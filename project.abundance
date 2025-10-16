@@ -1,0 +1,100 @@
+{
+  "atomType": "Molecule",
+  "name": "test_dev_2",
+  "x": 0,
+  "y": 0,
+  "uniqueID": 1743265138516,
+  "ioValues": [
+    {
+      "name": "Input (1)",
+      "ioValue": 5
+    },
+    {
+      "name": "really long input name ",
+      "ioValue": 10
+    }
+  ],
+  "topLevel": true,
+  "allAtoms": [
+    {
+      "atomType": "Input",
+      "name": "Input (1)",
+      "x": 0.033,
+      "y": 0.2,
+      "uniqueID": "f2f9c959-601c-40e5-b7d2-da766aff3e89",
+      "ioValues": [],
+      "type": "number"
+    },
+    {
+      "atomType": "Input",
+      "name": "Input (1)",
+      "x": 0.033,
+      "y": 0.30000000000000004,
+      "uniqueID": "f2f9c959-601c-40e5-b7d2-da766aff3e89",
+      "ioValues": [],
+      "type": "number"
+    },
+    {
+      "atomType": "Input",
+      "name": "really long input name ",
+      "x": 0.033,
+      "y": 0.4,
+      "uniqueID": "199cfb91-890f-4576-9d9c-24488e73fd88",
+      "ioValues": [],
+      "type": "number"
+    },
+    {
+      "atomType": "Input",
+      "name": "Input (1)",
+      "x": 0.033,
+      "y": 0.5,
+      "uniqueID": "f2f9c959-601c-40e5-b7d2-da766aff3e89",
+      "ioValues": [],
+      "type": "number"
+    },
+    {
+      "atomType": "Output",
+      "name": "Output",
+      "x": 0.9854368932038834,
+      "y": 0.467741935483871,
+      "uniqueID": "1ffc5a2f-7e16-43dd-9783-069e836ed32b",
+      "ioValues": []
+    },
+    {
+      "atomType": "Input",
+      "name": "Input (1)",
+      "x": 0.033,
+      "y": 0.6,
+      "uniqueID": "f2f9c959-601c-40e5-b7d2-da766aff3e89",
+      "ioValues": [],
+      "type": "number"
+    },
+    {
+      "atomType": "Input",
+      "name": "really long input name ",
+      "x": 0.033,
+      "y": 0.7,
+      "uniqueID": "199cfb91-890f-4576-9d9c-24488e73fd88",
+      "ioValues": [],
+      "type": "number"
+    },
+    {
+      "atomType": "Circle",
+      "name": "Circle",
+      "x": 0.4,
+      "y": 0.49689440993788814,
+      "uniqueID": "fb647ad6-17e4-44da-9789-61e6c042f5c9",
+      "ioValues": [
+        {
+          "name": "diameter",
+          "ioValue": 10
+        }
+      ]
+    }
+  ],
+  "allConnectors": [],
+  "unitsKey": "Inches",
+  "fileTypeVersion": 1,
+  "compiledBom": [],
+  "filetypeVersion": 1
+}
